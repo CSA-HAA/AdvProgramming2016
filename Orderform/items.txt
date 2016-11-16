@@ -1,0 +1,14 @@
+Watch - 20
+Bike - 30
+Dish set - 50
+Shoes - 15
+TV - 250
+Laptop - 250
+Dining room set - 200
+Chainsaw - 150
+Drill - 80
+Shotgun - 200
+
+Two day shipping - $25
+Three day shipping - $10
+Five day shipping - $5
